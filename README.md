@@ -4,4 +4,4 @@ One-click SOS alert button and one-click cancel button to cancel alert.
 Sends Name , Contact , SMS , Audio recorder and Live Location to the Server.
 Stores user details securily in a database.
 Simple and Responsive user interface.
-Tech Stack: HTML , CSS , Javascript , Geolocation API , Audio Recording API , mongoDB and Node.js.
+Used tech-stack(HTML , CSS , Javascript , mongoDB and Node.js).

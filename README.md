@@ -1,5 +1,4 @@
 1. A web-based emergency alert application designed to enhance women's safety.
-<br>
 2. It allows users to send real-time alerts along with their live location.
 <br>
 3. One-click SOS alert button and one-click cancel button to cancel alert.
